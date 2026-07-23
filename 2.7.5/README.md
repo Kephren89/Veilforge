@@ -51,7 +51,7 @@ Picker visibility note: In file search dialogs, `.json` session files are explic
 ## Parameters
 - **Parameters** includes a configurable default folder for **Save/Load Session**.
 - **Parameters** includes **Token batch spacing** for multi-token import placement.
-- Dialog text uses a high-contrast style for better readability.
+
 
 ## Credits
 
