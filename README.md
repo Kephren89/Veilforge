@@ -134,3 +134,5 @@ You may modify and redistribute the source code and/or binaries **as long as you
 You may **not** monetize it (no selling, no paid bundles, no charging for access).
 
 See **LICENSE.md** for the full text.
+
+New versions : https://github.com/Kephren89/Veilforge
